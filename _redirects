@@ -1,0 +1,31 @@
+# Short links, served by Cloudflare Pages. One per line: <path> <destination> <status>.
+# Edit, push to main, live in ~30s. Keep these 302 (not 301) so they stay editable:
+# browsers cache a 301 more or less forever.
+
+# the root: who i am on the internet
+/               https://bsky.app/profile/isaa.ch                                                                        302
+
+# career / working with me
+/cv             https://docs.google.com/document/d/1cvz6aDsennfnhaWgJr4PeiGZw1mE0JT3t0OnR7mBksM/edit?usp=sharing        302
+/readme         https://github.com/hepwori/wwi                                                                          302
+/working        https://github.com/hepwori/wwi                                                                          302
+
+# writing
+/transitions    https://medium.com/@isaach/transitions-127bdc91a3e4                                                     302
+/saudade        https://medium.com/@isaach/life-saudade-and-chatgpt-7aaebb36af8c                                        302
+/cancer         https://medium.com/@isaach/cancer-part-1-783bf09479eb                                                   302
+
+# things i made
+/prompt         https://gist.github.com/hepwori/54390cd897a0e4b107bb1aefc6324a85                                        302
+/pm             https://hepwori.github.io/pm                                                                            302
+/nbh            https://hepwori.github.io/nbh/                                                                          302
+/favidenticon   https://chromewebstore.google.com/detail/favidenticon-for-google-d/edgiicdjokbigpnepppjpalhkbjgdpai    302
+
+# shared chats
+/btchat         https://chatgpt.com/share/685dac63-813a-4d6c-b823-628f6edf980f                                          302
+/pictureme      https://gemini.google.com/share/568c6eb27b64?pli=1                                                      302
+
+# misc
+/saas           https://imgur.com/rMuEafK                                                                               302
+/sci-future     https://docs.google.com/document/d/1SuJHaCr89Ih6TFvAIH2WM5M4_MlXwM8mqHynUBuungE/edit?usp=sharing&resourcekey=0-wg-QROzZFa4Ju_uN_wOBNQ    302
+/sci-mvsr       https://docs.google.com/document/d/1SuJHaCr89Ih6TFvAIH2WM5M4_MlXwM8mqHynUBuungE/edit?usp=sharing&resourcekey=0-wg-QROzZFa4Ju_uN_wOBNQ    302
