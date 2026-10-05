@@ -5,9 +5,9 @@
 # the root: who i am on the internet
 /               https://bsky.app/profile/isaa.ch                                                                        302
 
-# career / working with me
-/cv             https://docs.google.com/document/d/1cvz6aDsennfnhaWgJr4PeiGZw1mE0JT3t0OnR7mBksM/edit?usp=sharing        302
-/readme         https://github.com/hepwori/wwi                                                                          302
+# career / working with me: real pages on isaa.ch now (no trailing slash: avoids depending on how the apex serves /cv/)
+/cv             https://isaa.ch/cv                                                                                      302
+/readme         https://isaa.ch/readme                                                                                  302
 
 # writing
 /transitions    https://medium.com/@isaach/transitions-127bdc91a3e4                                                     302
